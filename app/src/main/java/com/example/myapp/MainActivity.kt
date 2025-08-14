@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         //
         //dasyuagdyuasgdu
         ///eretrtetyre
+        //eqweqwew
 
         ///232132342
         enableEdgeToEdge()
